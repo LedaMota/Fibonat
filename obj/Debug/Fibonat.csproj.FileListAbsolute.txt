@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\Fibonat\bin\Debug\Fibonat.exe.config
+C:\WorkspaceLediane\Fibonat\bin\Debug\Fibonat.exe
+C:\WorkspaceLediane\Fibonat\bin\Debug\Fibonat.pdb
+C:\WorkspaceLediane\Fibonat\obj\Debug\Fibonat.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\Fibonat\obj\Debug\Fibonat.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\Fibonat\obj\Debug\Fibonat.exe
+C:\WorkspaceLediane\Fibonat\obj\Debug\Fibonat.pdb
